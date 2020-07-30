@@ -1,2 +1,6 @@
 # Deep-Learning
 Deep Learning and Neural network
+backprop sequence model
+AI4M_C3_M1_lecture_nb_pandas
+AI4M_C3_M1_lecture_nb_sklearn
+AI4M_C3_M1_lecture_notebook_logit
